@@ -31,7 +31,7 @@ Full Sprint Cycle:
 
 ### Project Boards and Tickets
 
-Eamples: Asana, Trello, GitHub Issues, Jira
+Examples: Asana, Trello, GitHub Issues, Jira
 
 Active Sprints will be divided into *tickets* that fall into progress categories.
 
